@@ -1,1 +1,11 @@
 pennylane==0.28.0
+jax==0.4.4
+jaxlib==0.4.4
+pytorch
+matplotlib
+zstd
+dill
+boto3
+pennylane-qiskit
+ipympl
+
